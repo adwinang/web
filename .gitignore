@@ -132,6 +132,10 @@ dist
 # macos
 .DS_Store
 
+# vscode workspace
+*.code-workspace
+
+# Design Files
 *.sketch
 *.fig
 *.xd
